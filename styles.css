@@ -1,0 +1,210 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+#opening{
+   position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: bisque;
+    animation-duration: 1.9s;
+    animation-iteration-count: calc(1);
+    animation-fill-mode: forwards;
+    animation-name: opening;
+    animation-direction: reverse;
+    animation-delay: 0.25s;
+}
+
+ @keyframes opening{
+    from {top: -1100px;}
+    to { top: 0px;} 
+}  
+
+
+.F{
+        position: relative;
+        /* top: 29%;
+        left: 45%; */
+        font-size: 200px;
+        /* font-weight: bold; */
+        font-family: 'Archivo Black', sans-serif;
+        animation-duration: 2.2s;
+        animation-iteration-count: calc(1);
+        animation-fill-mode: forwards;
+        animation-name: F;
+        animation-direction: reverse;
+        animation-delay: 0.5s;
+        
+    }
+@keyframes F{
+    from {top: -1100px;}
+    to { top: 0px;}
+}
+.I{
+        position: relative;
+        /* top: 29%;
+        left: 45%; */
+        font-size: 150px;
+        font-weight: bold;
+        font-family: 'Archivo Black', sans-serif;
+        animation-duration: 2.37s;
+        animation-iteration-count: calc(1);
+        animation-fill-mode: forwards;
+        animation-name: I;
+        animation-direction: reverse;
+        animation-delay: 0.5;
+    }
+    @keyframes I{
+        from {top: -1100px;}
+        to { top: 0px;}
+    }
+
+    .N{
+        position: relative;
+        /* top: 29%;
+        left: 45%; */
+        font-size: 150px;
+        font-weight: bold;
+        font-family: 'Archivo Black', sans-serif;
+        animation-duration: 3s;
+        animation-iteration-count: calc(1);
+        animation-fill-mode: forwards;
+        animation-name: N;
+        animation-direction: reverse;
+        animation-delay: 3s;
+    }
+    
+    @keyframes N{
+        from {top: -1100px;}
+        to { top: 0px;}
+    }
+
+    .I{
+        position: relative;
+        /* top: 29%;
+        left: 45%; */
+        font-size: 150px;
+        font-weight: bold;
+        font-family: 'Archivo Black', sans-serif;
+        animation-duration: 2.35s;
+        animation-iteration-count: calc(1);
+        animation-fill-mode: forwards;
+        animation-name: I;
+        animation-direction: reverse;
+        animation-delay: 0.5s;
+        
+    }
+
+    @keyframes I{
+        from {top: -1100px;}
+        to { top: 0px;}
+    }
+.S{
+    
+        position: relative;
+        /* top: 29%;
+        left: 45%; */
+        font-size: 150px;
+        /* font-weight: bold; */
+        font-family: 'Archivo Black', sans-serif;
+        animation-duration: 2.25s;
+        animation-iteration-count: calc(1);
+        animation-fill-mode: forwards;
+        animation-name:  S;
+        animation-direction: reverse;
+        animation-delay: 0.5s;
+    }
+    @keyframes S{
+        from {top: -1100px;}
+        to { top: 0px;}
+    }
+    .H{
+    
+        position: relative;
+        /* top: 29%;
+        left: 45%; */
+        font-size: 150px;
+        /* font-weight: bold; */
+        font-family: 'Archivo Black', sans-serif;
+        animation-duration: 2.39s;
+        animation-iteration-count: calc(1);
+        animation-fill-mode: forwards;
+        animation-name:  H;
+        animation-direction: reverse;
+        animation-delay: 0.5s;
+    }
+    @keyframes H{
+        from {top: -1100px;}
+        to { top: 0px;}
+    }
+    .E{
+    
+        position: relative;
+        /* top: 29%;
+        left: 45%; */
+        font-size: 150px;
+        /* font-weight: bold; */
+        font-family: 'Archivo Black', sans-serif;
+        animation-duration: 2.24s;
+        animation-iteration-count: calc(1);
+        animation-fill-mode: forwards;
+        animation-name:  E;
+        animation-direction: reverse;
+        animation-delay: 0.5s;
+    }
+    @keyframes E{
+        from {top: -1100px;}
+        to { top: 0px;}
+    }
+    .R{
+    
+        position: relative;
+        /* top: 29%;
+        left: 45%; */
+        font-size: 150px;
+        /* font-weight: bold; */
+        font-family: 'Archivo Black', sans-serif;
+        animation-duration: 2.45s;
+        animation-iteration-count: calc(1);
+        animation-fill-mode: forwards;
+        animation-name:  R;
+        animation-direction: reverse;
+        animation-delay: 0.5s;
+    }
+    @keyframes R{
+        from {top: -1100px;}
+        to { top: 0px;}
+    }
+    .S{
+    
+        position: relative;
+        /* top: 29%;
+        left: 45%; */
+        font-size: 150px;
+        /* font-weight: bold; */
+        font-family: 'Archivo Black', sans-serif;
+        animation-duration: 2.35s;
+        animation-iteration-count: calc(1);
+        animation-fill-mode: forwards;
+        animation-name:  S;
+        animation-direction: reverse;
+        animation-delay: 0.5s;
+    }
+    @keyframes S{
+        from {top: -1100px;}
+        to { top: 0px;}
+    }
+    .FINISHERS{
+        width: 100%;
+    position: absolute;
+    display: flex; 
+    justify-content:right;
+    /* font-size: 1px; */
+    /* font-weight: bold; */
+    top: 70%;
+
+    /* right: 1px; */
+    
+  }
